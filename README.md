@@ -22,7 +22,7 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ken Njonge;Quality+Assurance+Engineer;Web+%7C+Mobile+%7C+API+Testing;Quality+Is+Not+Negotiable!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+YOUR_NAME;QA+Automation+Engineer;Web+%7C+Mobile+%7C+API+Testing;Passionate+About+Quality!" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -41,6 +41,28 @@
 ---
 
 ## 👨‍💻 About Me
+
+```javascript
+const qaEngineer = {
+    name: "YOUR_NAME",
+    role: "Senior QA Automation Engineer",
+    location: "Your City, Country",
+    experience: "5+ years",
+    expertise: {
+        webTesting: ["Selenium", "Playwright", "Cypress"],
+        mobileTesting: ["Appium", "XCUITest", "Espresso"],
+        apiTesting: ["RestAssured", "Postman", "SoapUI"],
+        languages: ["JavaScript", "TypeScript", "Python", "Java"],
+        frameworks: ["TestNG", "JUnit", "Pytest", "Mocha", "Jest"],
+        cicd: ["Jenkins", "GitHub Actions", "GitLab CI", "Azure DevOps"],
+        tools: ["Docker", "Kubernetes", "Jira", "TestRail", "Allure"]
+    },
+    currentFocus: "Building scalable test automation frameworks",
+    learning: ["AI-powered testing", "Performance engineering", "K6"],
+    interests: ["Open Source", "DevOps", "Quality Engineering"],
+    quote: "Quality is not an act, it is a habit. - Aristotle"
+};
+```
 
 ### 🚀 What I Do
 
@@ -406,4 +428,3 @@ YAML         1 hr 5 mins     █░░░░░░░░░░░░░░░░
   <br>
   <sub>⭐ If you like my work, consider starring my repositories!</sub>
 </div>
-

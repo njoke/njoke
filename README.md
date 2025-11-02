@@ -42,28 +42,6 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const qaEngineer = {
-    name: "YOUR_NAME",
-    role: "Senior QA Automation Engineer",
-    location: "Your City, Country",
-    experience: "5+ years",
-    expertise: {
-        webTesting: ["Selenium", "Playwright", "Cypress"],
-        mobileTesting: ["Appium", "XCUITest", "Espresso"],
-        apiTesting: ["RestAssured", "Postman", "SoapUI"],
-        languages: ["JavaScript", "TypeScript", "Python", "Java"],
-        frameworks: ["TestNG", "JUnit", "Pytest", "Mocha", "Jest"],
-        cicd: ["Jenkins", "GitHub Actions", "GitLab CI", "Azure DevOps"],
-        tools: ["Docker", "Kubernetes", "Jira", "TestRail", "Allure"]
-    },
-    currentFocus: "Building scalable test automation frameworks",
-    learning: ["AI-powered testing", "Performance engineering", "K6"],
-    interests: ["Open Source", "DevOps", "Quality Engineering"],
-    quote: "Quality is not an act, it is a habit. - Aristotle"
-};
-```
-
 ### 🚀 What I Do
 
 - 🔬 Design and implement **comprehensive test automation strategies**

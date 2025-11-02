@@ -22,7 +22,7 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+YOUR_NAME;QA+Automation+Engineer;Web+%7C+Mobile+%7C+API+Testing;Passionate+About+Quality!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ken Njonge;Quality+Assurance+Engineer;Web+%7C+Mobile+%7C+API+Testing;Quality+Is+Not+Negotiable!" alt="Typing SVG" />
   </a>
 </h1>
 

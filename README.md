@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a Senior QA Engineer with over a decade of optimizing quality for large-scale enterprise systems and mobile platforms. I design robust test frameworks, define end-to-end testing strategies, and establish performance and evaluation metrics that drive measurable outcomes. I’m passionate about advancing quality in AI by developing evaluator rubrics and performance metrics for large language models (LLMs), ensuring reliability, fairness, and measurable improvement across AI-driven systems.
+I'm a Senior QA Engineer with over a decade of optimizing quality for large-scale enterprise systems, mobile applications, and AI/LLM models. I design robust test frameworks, define end-to-end testing strategies, and establish performance and evaluation metrics that drive measurable outcomes.
 
 **Key Achievements:**
 - 📉 Reduced manual test cycles by **30%** through QA modernization

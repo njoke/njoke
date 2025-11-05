@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a Senior QA Engineer with over a decade of optimizing quality for large-scale enterprise systems, mobile applications, and AI/LLM models. I design robust test frameworks, define end-to-end testing strategies, and establish performance and evaluation metrics that drive measurable outcomes.
+I'm a Quality Assurance expert with over a decade of optimizing quality for large-scale enterprise systems, mobile applications, and AI/LLM models. I design robust test frameworks, define end-to-end testing strategies, and establish performance and evaluation metrics that drive measurable outcomes.
 
 **Key Achievements:**
 - 📉 Reduced manual test cycles by **30%** through QA modernization

@@ -6,7 +6,7 @@
 
 ## About Me
 
-Technical Project Manager with 15+ years of experience delivering software across FinTech, Election Technology, and Enterprise SaaS. Career experience spans release planning, cross-functional coordination, and end-to-end program delivery for mobile and web platforms serving tens of millions of users. Led quality strategy, automation frameworks, and AI evaluation programs before moving into Technical Project Management — that engineering foundation strengthens risk identification, dependency planning, and release decision-making. Still building: personal automation and AI projects live in the repos below, because staying hands-on makes for a better PM.
+Technical Project Manager with 15+ years of experience delivering software across FinTech, Election Technology, and Enterprise SaaS. Career experience spans release planning, cross-functional coordination, and end-to-end program delivery for mobile and web platforms serving tens of millions of users. Led quality strategy, automation frameworks, and AI evaluation programs before moving into Technical Project Management. That engineering foundation strengthens risk identification, dependency planning, and release decision-making. Still building: personal automation and AI projects live in the repos below, because staying hands-on makes for a better PM.
 
 **Selected results:**
 - Reduced mobile crash rates by **85%** across iOS and Android.
